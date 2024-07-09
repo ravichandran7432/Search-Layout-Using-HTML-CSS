@@ -1,0 +1,19 @@
+img{
+    height: 12px;
+    width: 15px;
+}
+.b{
+    border: 5px solid;
+    border-color: black;
+    border-width: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: max-content;
+    margin-top: 5cm;
+}
+.a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
